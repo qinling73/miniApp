@@ -1,0 +1,5 @@
+/* index/index.wxss */
+.content {
+  color: red;
+  font-size: 19px;
+}
